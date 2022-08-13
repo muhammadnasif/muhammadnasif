@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Bengal Bay**, a term project of BUET. Which is more like a mimic of eBay but with our own implementation and designs from scratch.
 
+ - 💼 Currently a software engineer intern at Sedbox
+
 - 🌱 I’m currently learning **RabbitMQ and Flutter.**
 
 - 📫 You can reach me via **nasif.imtiaz1997@gmail.com**
