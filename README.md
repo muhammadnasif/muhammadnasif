@@ -9,7 +9,7 @@
 
 - 📫 You can reach me via **nasif.imtiaz1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MEDAWidofpWrohS-cWu8YBI6bVKb_G4H/view?usp=sharing](https://drive.google.com/file/d/1MEDAWidofpWrohS-cWu8YBI6bVKb_G4H/view?usp=sharing)
+- 📄 Know about my experiences <a href="shorturl.at/cjquW" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
