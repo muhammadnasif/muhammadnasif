@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadnasif" alt="muhammadnasif" /></a> </p>
 
-- 🔭 I’m currently working on **General Journal**, a web app. Which is used for recording journals of Hotel Mukta International. I am also creating a portfolio site for **Mukta Homes Ltd**.
-
  - 💼 Currently a part-time software engineer at AODoubleclick.com
 
-- 🌱 I’m currently learning **VueJS.**
+- 🌱 I’m currently learning **Langchain.**
 
 - 📫 You can reach me via **nasif.imtiaz1997@gmail.com**
 
